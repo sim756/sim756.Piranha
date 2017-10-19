@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>sim756</Authors>
+    <Company>sim756.com</Company>
+    <Product>Piranha</Product>
+    <Description />
+    <PackageProjectUrl>https://github.com/sim756/sim756.Piranha</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sim756/sim756.Piranha</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/sim756/sim756.Piranha</PackageLicenseUrl>
+  </PropertyGroup>
+
+</Project>
